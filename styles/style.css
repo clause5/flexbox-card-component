@@ -80,6 +80,9 @@
             align-items: center;
             margin: 0 auto;
         }
+        #text-container li  p{
+            font-family: 'Inter', sans-serif ;
+        }
 
         #image-container{
             height: 30%;
